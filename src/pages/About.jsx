@@ -52,9 +52,9 @@ export default function About(){
         {/* Bio + metrics */}
           <motion.div variants={{ hidden: { opacity: 0, y: 6 }, show: { opacity: 1, y: 0 }, exit: { opacity: 0, y: 6 } }}>
             <div className="prose prose-invert max-w-none text-muted">
-            <p>Portfolio développeur web Fabio Rakotoharimanga. Je conçois et développe des applications web modernes en combinant design et génie logiciel — front-ends réactifs avec React, back-ends robustes avec Django, et interfaces soignées produites avec Figma / Photoshop.</p>
+            <p>Je m'appelle <strong>Fabio Rakotoharimanga</strong>. Je conçois et développe des applications web modernes en combinant design et génie logiciel — front-ends réactifs avec React, back-ends robustes avec Django, et interfaces soignées produites avec Figma / Photoshop.</p>
 
-             <p>Développement web full-stack : React, Django, JavaScript, Python. Approche pragmatique privilégiant performance, accessibilité et maintenabilité. Travail en équipe, patterns réutilisables, composants documentés.</p>
+             <p>J'ai une approche pragmatique : privilégier la performance, l'accessibilité et la maintenabilité. J'aime travailler en équipe, établir des patterns réutilisables et produire des composants documentés et testés.</p>
 
             <div className="grid grid-cols-3 gap-4 mt-6">
               <div className="text-center">
