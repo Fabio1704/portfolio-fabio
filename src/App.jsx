@@ -24,15 +24,6 @@ export default function App(){
         <meta property="og:url" content="https://fabio-rakotoharimanga.dev" />
         <meta name="twitter:card" content="summary_large_image" />
         <link rel="canonical" href="https://fabio-rakotoharimanga.dev" />
-        <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
-        <script>
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'GA_MEASUREMENT_ID');
-          `}
-        </script>
       </Helmet>
       <div className="min-h-screen flex flex-col">
         <Navbar />
