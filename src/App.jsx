@@ -14,16 +14,16 @@ export default function App(){
   return (
     <>
       <Helmet>
-        <title>Fabio Rakotoharimanga - Portfolio</title>
-        <meta name="description" content="Développeur Web spécialisé en React, Django et UI/UX. Découvrez mes projets et compétences en développement front-end et back-end." />
-        <meta name="keywords" content="développeur web, React, Django, UI/UX, portfolio, Fabio Rakotoharimanga" />
+        <title>Fabio Rakotoharimanga - Portfolio Développeur Web React Django</title>
+        <meta name="description" content="Portfolio développeur web Fabio Rakotoharimanga. Spécialisé React, Django, UI/UX. Découvrez mes projets web, compétences développement front-end back-end." />
+        <meta name="keywords" content="portfolio développeur web, Fabio Rakotoharimanga, React, Django, UI/UX, développement web, front-end, back-end, JavaScript, Python" />
         <meta name="author" content="Fabio Rakotoharimanga" />
-        <meta property="og:title" content="Fabio Rakotoharimanga - Portfolio" />
-        <meta property="og:description" content="Développeur Web spécialisé en React, Django et UI/UX." />
+        <meta property="og:title" content="Fabio Rakotoharimanga - Portfolio Développeur Web" />
+        <meta property="og:description" content="Portfolio développeur web React Django. Projets web, compétences UI/UX." />
         <meta property="og:image" content="/assets/og-image-1200.png" />
-        <meta property="og:url" content="https://fabio-rakotoharimanga.dev" />
+        <meta property="og:url" content="https://portfolio-fabio-inky.vercel.app" />
         <meta name="twitter:card" content="summary_large_image" />
-        <link rel="canonical" href="https://fabio-rakotoharimanga.dev" />
+        <link rel="canonical" href="https://portfolio-fabio-inky.vercel.app" />
       </Helmet>
       <div className="min-h-screen flex flex-col">
         <Navbar />

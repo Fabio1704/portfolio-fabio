@@ -14,7 +14,7 @@ export default function Hero(){
       <div className="max-w-5xl mx-auto px-4 flex flex-col md:flex-row items-center gap-8">
         <motion.div className="flex-1" initial={{opacity:0, x:-20}} animate={{opacity:1, x:0}} transition={{delay:0.1}}>
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-3 leading-tight">Bonjour — je suis Fabio Rakotoharimanga</h1>
-          <p className="text-muted mb-4 text-sm sm:text-base">Je suis passionné par le développement web, la création d'interfaces et la résolution de problèmes complexes. J'aide les équipes à construire des interfaces modernes et performantes avec React, Django et des outils de design.</p>
+          <p className="text-muted mb-4 text-sm sm:text-base">Portfolio développeur web Fabio Rakotoharimanga. Spécialisé développement front-end React, back-end Django, UI/UX design. Découvrez mes projets web modernes et compétences en JavaScript, Python.</p>
           <div className="flex gap-3 flex-wrap">
             <Button onClick={()=>{ const a = document.createElement('a'); a.href='/assets/CV.pdf'; a.download='CV.pdf'; a.click(); }}>Télécharger CV</Button>
             <a href="#projects" className="px-4 py-2 rounded-md border border-white/10 text-sm sm:text-base">Voir mes projets</a>
