@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "Landing Page Template",
+    "description": "Responsive landing page built with React + Tailwind.",
+    "tags": ["Web"],
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "title": "Todo Mobile App",
+    "description": "Cross-platform app prototype built with React Native.",
+    "tags": ["Mobile"],
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "title": "E-commerce UI",
+    "description": "Design system + components for an e-commerce site.",
+    "tags": ["Web"],
+    "link": "#"
+  }
+  ,
+  {
+    "id": 4,
+    "title": "Portfolio Django",
+    "description": "Back-end with Django, API and admin customizations.",
+    "tags": ["Web","Django"],
+    "link": "#"
+  },
+  {
+    "id": 5,
+    "title": "Marketplace Mobile",
+    "description": "Prototype of mobile marketplace with PWA features.",
+    "tags": ["Mobile","Web"],
+    "link": "#"
+  },
+  {
+    "id": 6,
+    "title": "Design System",
+    "description": "Figma design system and component library.",
+    "tags": ["Design"],
+    "link": "#"
+  },
+  {
+    "id": 7,
+    "title": "Photoshop / Illustration assets",
+    "description": "Visual assets created for marketing and UI mockups.",
+    "tags": ["Design"],
+    "link": "#"
+  },
+  {
+    "id": 8,
+    "title": "Open-source UI Kit",
+    "description": "Reusable React components with accessibility in mind.",
+    "tags": ["Web"],
+    "link": "#"
+  },
+  {
+    "id": 9,
+    "title": "Sales Tracker Pro",
+    "description": "Application de suivi des ventes professionnelle déployée sur Vercel.",
+    "tags": ["Web", "React", "Django"],
+    "link": "https://sales-tracker-pro-v3.vercel.app/",
+    "image": "/assets/sales-tracker-screenshot.PNG"
+  }
+]
