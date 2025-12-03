@@ -20,7 +20,6 @@ export default function App(){
         <meta name="author" content="Fabio Rakotoharimanga" />
         <meta property="og:title" content="Fabio Rakotoharimanga - Portfolio Développeur Web" />
         <meta property="og:description" content="Portfolio développeur web React Django. Projets web, compétences UI/UX." />
-        <meta property="og:image" content="/assets/og-image-1200.png" />
         <meta property="og:url" content="https://portfolio-fabio-inky.vercel.app" />
         <meta name="twitter:card" content="summary_large_image" />
         <link rel="canonical" href="https://portfolio-fabio-inky.vercel.app" />
