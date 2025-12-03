@@ -89,9 +89,9 @@ export default function About(){
 
           <h4 className="text-lg font-medium mb-3">Parcours</h4>
           <ol className="list-decimal list-inside text-sm text-muted space-y-2">
-            <li><strong>2023 — Aujourd'hui</strong> : Projets freelance et développement d'applications React + Django.</li>
-            <li><strong>2020 — 2023</strong> : Ingénieur web — développement d'APIs et front-ends pour plusieurs clients.</li>
-            <li><strong>2018 — 2020</strong> : Débuts professionnels — intégration, petits produits et design.</li>
+            <li><strong>2024 — Aujourd'hui</strong> : Projets freelance et développement d'applications React + Django.</li>
+            <li><strong>2024 — 2025</strong> : Ingénieur web — développement d'APIs et front-ends pour plusieurs clients.</li>
+            <li><strong>2023-2024</strong> : Débuts professionnels — intégration, petits produits et design.</li>
           </ol>
       </motion.div>
       </motion.div>
