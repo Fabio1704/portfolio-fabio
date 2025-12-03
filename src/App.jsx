@@ -14,12 +14,11 @@ export default function App(){
   return (
     <>
       <Helmet>
-        <title>Fabio Rakotoharimanga - Portfolio Développeur Web React Django</title>
-        <meta name="description" content="Portfolio développeur web Fabio Rakotoharimanga. Spécialisé React, Django, UI/UX. Découvrez mes projets web, compétences développement front-end back-end." />
-        <meta name="keywords" content="portfolio développeur web, Fabio Rakotoharimanga, React, Django, UI/UX, développement web, front-end, back-end, JavaScript, Python" />
+        <title>Fabio Rakotoharimanga - Portfolio</title>
+        <meta name="description" content="Portfolio de Fabio Rakotoharimanga, développeur web spécialisé en React et Django." />
         <meta name="author" content="Fabio Rakotoharimanga" />
-        <meta property="og:title" content="Fabio Rakotoharimanga - Portfolio Développeur Web" />
-        <meta property="og:description" content="Portfolio développeur web React Django. Projets web, compétences UI/UX." />
+        <meta property="og:title" content="Fabio Rakotoharimanga - Portfolio" />
+        <meta property="og:description" content="Portfolio développeur web React Django." />
         <meta property="og:url" content="https://portfolio-fabio-inky.vercel.app" />
         <meta name="twitter:card" content="summary_large_image" />
         <link rel="canonical" href="https://portfolio-fabio-inky.vercel.app" />
